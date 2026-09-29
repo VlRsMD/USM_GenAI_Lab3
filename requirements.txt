@@ -1,0 +1,6 @@
+tensorflow>=2.16
+numpy>=1.26
+matplotlib>=3.8
+
+# development
+pytest>=8.0
